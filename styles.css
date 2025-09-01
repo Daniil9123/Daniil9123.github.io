@@ -14,11 +14,11 @@ html{
 }
 
 header{
-	min-height: 200px;
+	min-height: 400px;
 }
 
 .container{
-	min-height: 600px;
+	min-height: 800px;
 	background: url('img/second.jpg') center/cover no-repeat;
 
 }
