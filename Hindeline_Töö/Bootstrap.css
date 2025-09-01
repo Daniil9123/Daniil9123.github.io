@@ -1,0 +1,117 @@
+body {
+	background-color: purple;
+}
+.wrapper {
+width: 1380px;
+margin: 0 auto;
+background-color: white;
+overflow: hidden;
+}
+.Bootstrap {
+	font-size: 25px;
+	color: purple;
+
+}
+
+header {
+	margin: 0 auto;
+	width: 1340px;
+	/*border: 1px solid green;*/
+	
+}
+h1 {
+	text-align: left;
+	width: 1380px;
+	margin: 0 auto;
+	/*border: 1px solid green;*/
+	color: purple;
+	font-family: "Calibri Light";
+
+}
+h2 {
+	text-align: left;
+	color: purple;
+	font-family: "Calibri Light";
+}
+h3 {
+	font-family: "Calibri Light";
+}
+h4 {
+	font-family: "Calibri Light";
+}
+
+
+main {
+
+	width: 1200px;
+	float: right;
+	/*border: 1px solid green;*/
+}
+
+
+aside {
+	width: 180px;
+	margin:  auto;
+	/*float: left;*/
+	/*border: 1px solid green;*/
+
+}
+
+section {
+	width: 1200px;
+
+}
+article {
+	width: 1180px;
+}
+/*.block{
+	
+	float: left;
+}
+.Brauser_war{
+	
+	float: left;
+}*/
+.Navigation {
+	margin: 0 auto;
+	float: left;
+	width: 180px;
+	margin: 50px auto;
+	
+	/*border: 3px solid green;*/
+	position: fixed;
+/*	top: 230px;*/
+
+}
+
+
+p {
+	padding-left: 	20px;
+	text-align: justify;
+	font-family: "Calibri";
+
+}
+footer {
+	margin: 0 auto;
+	width: 1380px;
+	float: left;
+	clear: both;
+	padding-left: 	20px;
+}
+
+
+}
+.BootStrap_H {
+	color: purple;
+}
+.button {
+	margin: 0 auto;
+	text-align: center;
+	padding-left: 20px;
+}
+.text_li {
+	padding-left: 50px;
+}
+hr {
+	border: 5px dashed purple;
+}

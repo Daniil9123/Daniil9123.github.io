@@ -1,0 +1,111 @@
+body {
+	background-color: orange;
+}
+.wrapper {
+width: 1380px;
+margin: 0 auto;
+background-color: white;
+overflow: hidden;
+}
+.HTML5 {
+	font-size: 25px;
+	color: orange;
+
+}
+
+header {
+	margin: 0 auto;
+	width: 1380px;
+	/*border: 1px solid green;*/
+	
+}
+h1 {
+	text-align: center;
+	width: 1380px;
+	margin: 0 auto;
+	/*border: 1px solid green;*/
+	color: orange;
+
+}
+h2 {
+	text-align: center;
+	color: orange;
+}
+/*h3 {
+	padding-left: 	20px;
+	width: 310px;
+	margin: 5px auto;
+	float: right;
+	text-align: center;
+}*/
+
+main {
+	margin: 0 auto;
+
+	width: 1200px;
+	float: right;
+	/*border: 1px solid green;*/
+}
+
+
+aside {
+	width: 180px;
+	margin:  auto;
+	/*float: left;*/
+	/*border: 1px solid green;*/
+
+}
+
+section {
+	width: 1000px;
+
+}
+article {
+	margin: 0 auto;
+	width: 800px;
+}
+/*.block{
+	
+	float: left;
+}
+.Brauser_war{
+	
+	float: left;
+}*/
+.Navigation {
+	margin: 0 auto;
+	float: left;
+	width: 180px;
+	margin: 50px auto;
+	
+	/*border: 3px solid green;*/
+	position: fixed;
+/*	top: 230px;*/
+
+}
+
+
+p {
+	padding-left: 	20px;
+	text-align: justify;
+}
+footer {
+	margin: 0 auto;
+	width: 1380px;
+	float: left;
+	clear: both;
+	padding-left: 	20px;
+}
+
+}
+.HTML5 {
+	color: orange;
+}
+.button {
+	margin: 0 auto;
+	text-align: center;
+	padding-left: 20px;
+}
+.text_li {
+	padding-left: 50px;
+}

@@ -1,0 +1,153 @@
+body {
+	background-color: lightcyan;
+}
+.wrapper {
+width: 1380px;
+margin: 0 auto;
+background-color: white;
+overflow: hidden;
+}
+.HTML_Img {
+	margin-right: 10px;
+}
+.CSS_Img {
+	margin-right: 40px;
+	/*width: 50px;*/
+}
+.Bootstrap_Img {
+	margin-left: 40px;
+	/*float: right;*/
+}
+.Angulas_Img {
+	margin-left: 10px;
+	/*margin-right: 5px;
+	float: right;*/
+}
+.Gradient_h2 {
+	padding-left: 	20px;
+	background: linear-gradient(white, blue, red);
+	/*width: 350px;*/
+	color: white;
+	/*background-size: 1px;*/
+}
+header {
+	margin: 0 auto;
+	width: 1380px;
+	/*border: 1px solid green;*/
+	
+}
+h1 {
+	text-align: center;
+	width: 1380px;
+	margin: 0 auto;
+	/*border: 1px solid green;*/
+	color: red;
+
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	padding-left: 	20px;
+	width: 310px;
+	margin: 5px auto;
+	float: right;
+	text-align: center;
+}
+
+main {
+	margin: 0 auto;
+
+	width: 740px;
+	float: left;
+	/*border: 1px solid green;*/
+}
+
+
+aside {
+	margin: 0 auto;
+	/*float: left;*/
+	/*border: 1px solid green;*/
+
+}
+
+section {
+	width: 700px;
+
+}
+article {
+	width: 350px;
+}
+.block{
+	
+	float: left;
+}
+.Navigation {
+	margin: 0 auto;
+	float: left;
+	width: 240px;
+	margin: 50px auto;
+	
+	/*border: 3px solid green;*/
+	/*position: relative;
+	top: 230px;*/
+
+}
+.News {
+	margin: 0 auto;
+	float: left;
+	width: 	400px;
+	margin: 0 auto;
+
+}
+.Final_block{
+	float: left;
+	width: 740px;
+	background-color: darkblue;
+
+}
+.textfinal{
+	width: 640px;
+	background-color: white;
+	padding-left: 	20px;
+	padding-right: 	5px;
+	margin: 20px auto;
+	color: darkblue;
+}
+
+.data{
+	/*width: 650px;*/
+	text-align: center;
+	color: darkblue;
+	/*float: right;*/
+}
+p {
+	padding-left: 	20px;
+	text-align: justify;
+}
+footer {
+	/*margin: 0 auto;*/
+	width: 1380px;
+	float: left;
+	clear: both;
+}
+.bluetext {
+	color: darkblue;
+}
+.bluebackground {
+	padding-left: 	20px;
+	background-color: darkblue;
+	color: white;
+}
+.HTML5 {
+	color: orange;
+}
+.CSS {
+	color: blue;
+}
+.Bootstrap {
+	color: purple;
+}
+.AngularJS {
+	color: red;
+}
