@@ -18,7 +18,7 @@ header{
 }
 
 .container{
-	min-height: 800px;
+	min-height: 700px;
 	background: url('img/second.jpg') center/cover no-repeat;
 
 }
