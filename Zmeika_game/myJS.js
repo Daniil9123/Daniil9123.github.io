@@ -57,7 +57,7 @@ function startGame() {
     gameIsRunning = true;
     respawn(); //создали змейку
 
-    snake_timer = setInterval(moveBy, SNAKE_SPEED);
+    snake_timer = setInterval(move, SNAKE_SPEED);
     setTimeout(createFood, 5000);
 }
 
