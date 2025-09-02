@@ -13,10 +13,13 @@ html{
 	background: #27353f;
 }
 
-header{
-	min-height: 400px;
-	text-align: center/cover no-repeat;
-	
+header {
+  min-height: 400px;
+  display: flex;
+  justify-content: center; /* по горизонтали */
+  align-items: center;     /* по вертикали */
+  /* background: center/cover no-repeat url('your-image.jpg'); если нужен фон */
+  text-align: center;
 }
 
 .container{
