@@ -124,7 +124,7 @@ function move() {
         if (!haveFood(new_unit)) {
             // Находим хвост
             var removed = snake.splice(0, 1)[0];
-            var classes = removed.getAttribute('class').split('');
+            var classes = removed.getAttribute('class').split(' ');
 
             // удаляем хвост
             removed.setAttribute('class', classes[0] + ' ' + classes[1]);
