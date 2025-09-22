@@ -24,7 +24,7 @@ function modal(triggerSelector, modalSelector, modalTimerId) {
         modal = document.querySelector(modalSelector);
 
     modalTrigger.forEach(btn => {
-        btn.addEventListener('click', openModal(modalSelector, modalTimerId));
+        btn.addEventListener('click', () => openModal(modalSelector, modalTimerId));
     });
 
     modal.addEventListener('click', (e) => {
