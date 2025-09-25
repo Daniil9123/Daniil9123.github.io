@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 updateBtn.style.display = 'block';
             }
         }
-    })
+    });
 
     fetchMenuItems();
 });
